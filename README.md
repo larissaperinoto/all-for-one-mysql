@@ -1,6 +1,6 @@
 # All for One
 
-A [Trybe](https://www.betrybe.com/) é uma escola de tecnologia com foco em formação de Desenvolvedores Web e o projeto One for All foi proposto como atividade de aprimoramento dos estudos sobre desenvolvimento back-end. 
+A [Trybe](https://www.betrybe.com/) é uma escola de tecnologia com foco em formação de Desenvolvedores Web e o projeto All for One foi proposto como atividade de aprimoramento dos estudos sobre desenvolvimento back-end. 
 
 ## Objetivo
 
